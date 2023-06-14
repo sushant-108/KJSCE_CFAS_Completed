@@ -23,6 +23,10 @@
                 </ol>
             </nav>
             <p class = "page-content">
+            Hare Krishna Hare Krishna
+            Krishna Krishna Hare Hare
+            Hare Rama Hare Rame
+            Rame Rama Hare Hare 
             Hello dear site visitor, welcome to the K.J.S.C.E. Course Feedback Analysis System. 
             In this website, you can create an account as a student or a faculty member, 
             if you are a student or a faculty member, respectively. Once your account is created,
